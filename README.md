@@ -18,13 +18,13 @@
 
 ```mermaid
 graph TD
-    A[任意输入] --> B[quantflux: 因果审计 + 过拟合体检]
-    A --> C[earningscope: 算术对账 + 变异测试]
-    A --> D[scholarforge: 植入污染基准]
-    B --> E[✓ 存活证据]
+    A["任意输入"] --> B["quantflux: 因果审计 + 过拟合体检"]
+    A --> C["earningscope: 算术对账 + 变异测试"]
+    A --> D["scholarforge: 植入污染基准"]
+    B --> E["✓ 存活证据"]
     C --> E
     D --> E
-    E --> F[📜 哈希链出处凭证]
+    E --> F["📜 哈希链出处凭证"]
 ```
 
 > 三个工具共享同一套统计学方法论（Fellegi 数据编辑 / 记录链接、随机化推断、conformal 预测），
