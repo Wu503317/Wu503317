@@ -36,11 +36,11 @@ graph TD
 
 ## 📈 当前状态
 
-| 仓库 | 版本 | 测试 | CI |
-|------|------|------|----|
-| quantflux | v0.7.0 | 121 | [![CI](https://github.com/Wu503317/quantflux/actions/workflows/ci.yml/badge.svg)](https://github.com/Wu503317/quantflux/actions/workflows/ci.yml) |
-| earningscope | v0.5.0 | 90 | [![CI](https://github.com/Wu503317/earningscope/actions/workflows/ci.yml/badge.svg)](https://github.com/Wu503317/earningscope/actions/workflows/ci.yml) |
-| scholarforge | v0.6.0 | 98 | [![CI](https://github.com/Wu503317/scholarforge/actions/workflows/ci.yml/badge.svg)](https://github.com/Wu503317/scholarforge/actions/workflows/ci.yml) |
+| 仓库 | 版本 | 测试 | 状态 |
+|------|------|------|------|
+| quantflux | ![v0.7.0](https://img.shields.io/badge/v0.7.0-latest-blue) | ![tests](https://img.shields.io/badge/tests-121-success) | ![CI](https://img.shields.io/badge/CI-passing-success) |
+| earningscope | ![v0.5.0](https://img.shields.io/badge/v0.5.0-latest-blue) | ![tests](https://img.shields.io/badge/tests-90-success) | ![CI](https://img.shields.io/badge/CI-passing-success) |
+| scholarforge | ![v0.6.0](https://img.shields.io/badge/v0.6.0-latest-blue) | ![tests](https://img.shields.io/badge/tests-98-success) | ![CI](https://img.shields.io/badge/CI-passing-success) |
 
 ---
 
